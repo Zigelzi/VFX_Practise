@@ -1,0 +1,2 @@
+# VFX practise
+[Visual Effects for Games in Unity - Beginner To Intermediate](https://www.udemy.com/course/vfx-for-games-in-unity-beginner-to-intermediate/) course project for learning to create visual effects for Unity.
