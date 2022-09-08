@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Beam_Impact_Sawtooth
+  m_Name: Beam_Impact_Explosion_Add
   m_Shader: {fileID: -6465566751694194690, guid: c18ad5577b9a253488a010a621945f72, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
@@ -20,7 +20,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - Texture2D_330E31C0:
-        m_Texture: {fileID: 2800000, guid: 34e08aa10f900d44ab7b22e26595127f, type: 3}
+        m_Texture: {fileID: 2800000, guid: f4d94c64141271d4ab7266d267f4185a, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats: []
