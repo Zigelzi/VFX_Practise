@@ -30,7 +30,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 4282286499258934325}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!198 &6716982993700686718
 ParticleSystem:
@@ -4882,7 +4882,7 @@ GameObject:
   - component: {fileID: 4028721268988412001}
   - component: {fileID: 9169816024507502278}
   m_Layer: 0
-  m_Name: Beam_Ground_Climax
+  m_Name: Beam_Impact
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4900,13 +4900,13 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 2698202915156057876}
+  - {fileID: 5982022541904815717}
   - {fileID: 6980472738174568648}
   - {fileID: 5315210764441277145}
-  - {fileID: 3176652301144889749}
-  - {fileID: 5982022541904815717}
   - {fileID: 2235379818181086534}
-  - {fileID: 2143243204620521864}
   - {fileID: 8435950146926049893}
+  - {fileID: 2143243204620521864}
+  - {fileID: 3176652301144889749}
   m_Father: {fileID: 5257384257684378040}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
@@ -9760,7 +9760,7 @@ GameObject:
   - component: {fileID: 4504223728508765475}
   - component: {fileID: 3554859929830035638}
   m_Layer: 0
-  m_Name: Impact
+  m_Name: Flash_Spikes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14649,7 +14649,7 @@ Transform:
   m_Children:
   - {fileID: 825268527323755376}
   m_Father: {fileID: 4282286499258934325}
-  m_RootOrder: 7
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!198 &6432096202041872400
 ParticleSystem:
@@ -19501,7 +19501,7 @@ GameObject:
   - component: {fileID: 5529529381768682634}
   - component: {fileID: 1017654963424241707}
   m_Layer: 0
-  m_Name: Flash_Climax
+  m_Name: Flash_Round
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -19519,7 +19519,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 4282286499258934325}
-  m_RootOrder: 3
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!198 &5529529381768682634
 ParticleSystem:
@@ -24371,7 +24371,7 @@ GameObject:
   - component: {fileID: 3526927211155053032}
   - component: {fileID: 6919468900727177018}
   m_Layer: 0
-  m_Name: Beam_Ground_Anticipation
+  m_Name: Beam_Anticipation
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -29242,7 +29242,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5257384257684378040}
   m_Layer: 0
-  m_Name: VFX_AoE_Spell
+  m_Name: VFX_AoE_Arcane
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -34164,7 +34164,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 4282286499258934325}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!198 &1076860898079269902
 ParticleSystem:
@@ -39016,7 +39016,7 @@ GameObject:
   - component: {fileID: 2557856103495533724}
   - component: {fileID: 8061140242528624300}
   m_Layer: 0
-  m_Name: Shockwave
+  m_Name: Shockwave_Round
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -39034,7 +39034,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 4282286499258934325}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!198 &2557856103495533724
 ParticleSystem:
@@ -48774,7 +48774,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 4282286499258934325}
-  m_RootOrder: 4
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!198 &7729190898263546990
 ParticleSystem:
@@ -53626,7 +53626,7 @@ GameObject:
   - component: {fileID: 3505644976238794475}
   - component: {fileID: 7724618618664117188}
   m_Layer: 0
-  m_Name: Beam_Ground_AlphaBlend
+  m_Name: Beam_Anticipation_Dark
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -58496,7 +58496,7 @@ GameObject:
   - component: {fileID: 2681969714449390729}
   - component: {fileID: 5390107484015742976}
   m_Layer: 0
-  m_Name: Beam_Ground_AlphaBlend
+  m_Name: Beam_Impact_Dark
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
