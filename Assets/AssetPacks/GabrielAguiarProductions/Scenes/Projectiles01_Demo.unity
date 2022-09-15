@@ -1091,7 +1091,8 @@ MonoBehaviour:
   rotateToMouse: {fileID: 311825343}
   firePoint: {fileID: 1634547353}
   cameras: {fileID: 878620400}
-  VFXs: []
+  VFXs:
+  - {fileID: 4944214246535778152, guid: 295cd7709f4b13044ac9b0e0bf84f5d8, type: 3}
 --- !u!1 &481500360
 GameObject:
   m_ObjectHideFlags: 0
